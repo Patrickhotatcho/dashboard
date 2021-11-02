@@ -1,0 +1,1 @@
+IEX_API_KEY = 'pk_fabea17f2ef345d8919fb04d9a5e3826'
